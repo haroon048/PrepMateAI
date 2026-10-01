@@ -3,7 +3,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
 import '../../constants/app_colors.dart';
-import '../../models/evaluation_model.dart';
 import '../../models/interview_model.dart';
 import '../../services/gemini_service.dart';
 import 'result_screen.dart';
